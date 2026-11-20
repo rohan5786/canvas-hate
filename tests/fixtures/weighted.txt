@@ -1,0 +1,86 @@
+Grades for Test User
+Course
+Arrange By
+Name 	Due 	Submitted 	Status 	Score 		Details 	Submission Progress Status
+Bring summer work
+Homework
+	Sep 7 by 8am 	 	
+Click to test a different score 10 / 10
+			
+Ap classroom, practice, review: Water quiz
+Assessments
+	Sep 9 by 8am 	 	
+Click to test a different score - / 10
+			
+water Quiz #1
+Assessments
+	Sep 9 by 8am 	 	
+Click to test a different score 7.5 / 9
+			
+Project tracker 1
+Homework
+	Sep 11 by 8am 	Sep 11 at 8:26am 	
+late
+	
+Click to test a different score 5 / 5
+			
+AP Biology Unit 1 test (open)
+Assessments
+	Sep 21 by 8am 	 	
+Click to test a different score 95 / 100
+			
+Review Endosymbiosis
+Homework
+	Sep 23 by 8am 	 	
+Click to test a different score - / 5
+			
+Review Modules 13-14
+Homework
+	Oct 15 by 8am 	 	
+Click to test a different score - / 0
+			
+Unit 3 Test
+Assessments
+	Nov 2 by 8am 	 	
+Click to test a different score 97 / 100
+			
+Unit 8: Energy to Ecosystems
+Homework
+	Nov 4 by 8am 	 	
+missing
+	
+Click to test a different score - / 10
+			
+Animal Behavior/ Exp design
+Assessments
+	Nov 11 by 8am 	 	
+Click to test a different score 8 / 9
+			
+Unit 8 test
+Assessments
+	Nov 18 by 8am 	 	
+Click to test a different score 85 / 100
+			
+Banana Lab: completed handout/graph
+Homework
+	 	 	
+Click to test a different score 10 / 10
+			
+Project Notebook
+Homework
+	 	 	
+Click to test a different score 20 / 20
+			
+Homework 				
+			
+Assessments 				
+			
+Imported Assignments 				
+			
+Calculation of totals has been disabled
+Assignments are weighted by group:
+Group 	Weight
+Homework 	30%
+Assessments 	70%
+Imported Assignments 	0%
+Total 	100%
