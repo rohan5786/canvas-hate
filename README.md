@@ -2,7 +2,7 @@ Paste your Canvas 'Grades' page into a `.txt` and run the following script from 
     make                                        # first build
     scripts/canvasgrade.sh path/to/grades.txt   # output in your terminal/CLI
 
-## Note
+## Note the following:
 - `- / N` (ungraded) is skipped and rather than counted as zero.
 - "weighted page" computes sum(weights * <total_points_earned> / <total_points_possible> ) / sum(weights).
 - "not weighted" page computes `<total_points_earned> / <total_points_possible>`.
