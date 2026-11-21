@@ -1,4 +1,5 @@
-Paste your Canvas 'Grades' page into a `.txt` and run the following script from your terminal:
+Paste your Canvas 'Grades' page into a `.txt` and get your grade back instantly.
+## Run:
     make                                        # first build
     scripts/canvasgrade.sh path/to/grades.txt   # output in your terminal/CLI
 
