@@ -4,7 +4,7 @@ Paste your Canvas 'Grades' page into a `.txt` and run the following script from 
 
 ## Note the following:
 - `- / N` (ungraded) is skipped and rather than counted as zero.
-- "weighted page" computes sum(weights * <total_points_earned> / <total_points_possible> ) / sum(weights).
+- If an assignment does not note a point total (e.g., formatted `<points_earned> (<grade_earned>)`) then it will be skipped.
+- "weighted page" computes sum(weights * `<total_points_earned> / <total_points_possible>` ) / sum(weights).
 - "not weighted" page computes `<total_points_earned> / <total_points_possible>`.
-
 - 'awk' script to read lines efficiently, math done in C.
